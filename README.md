@@ -1,32 +1,70 @@
-# 🎂 Age Calculator (Web App)
+Portfolio Overview
+A modern, dark-themed e-portfolio for Li Sihan, Hospitality Management student showcasing internship experience at Handan Lidu International Hotel.
 
-This is a simple and responsive web-based **Age Calculator** that allows users to calculate their age in **years**, **months**, and **days** based on their date of birth.
+Features
+Dark theme with animated gradient background
 
-Built using:
-- ✅ HTML5
-- ✅ CSS3 (with Google Fonts: Poppins)
-- ✅ JavaScript
+Floating particles animation
 
----
+Brand logo in left corner with glow effect
 
-## 🚀 Features
+Background image in home section with overlay
 
-- 📅 **Date Picker** input (manual & calendar-based)
-- 📆 Calculates exact age (years, months, and days)
-- 🎨 Responsive design with custom styling
-- 🧠 Error handling for empty input
-- 🌐 Clean and modern UI using Google Fonts
+Typing animation for professional titles
 
----
+Social media icons (Facebook, Instagram, LinkedIn, Twitter, WeChat, Weibo)
 
-## 🛠️ How to Use
+About section with personal details and icons
 
-1. Clone the repository or [download the ZIP](https://alihamza29.github.io/codealpha_age_calculator/)
-2. Open `index.html` in any web browser
-3. Pick or type your date of birth
-4. Click **"Calculate Age"**
-5. See your age displayed below in **years, months, and days**
+Skills section with progress bars and descriptions
 
----
+Experience timeline with internship journey
 
+Image gallery with modal popup
 
+Contact section with information
+
+Resume download functionality
+
+Fully responsive for all devices
+
+Technologies Used
+HTML5
+
+CSS3 (Animations, Flexbox, Grid)
+
+JavaScript (ES6)
+
+Font Awesome Icons
+
+Unsplash Images
+
+File Structure
+text
+portfolio/
+│── index.html          # Main portfolio file
+│── README.md           # This file
+How to Use
+Download the HTML file
+
+Open in any web browser
+
+No installation or server required
+
+Customization
+Replace profile image URL
+
+Update social media links
+
+Modify skills percentages
+
+Change contact information
+
+Add personal photos to gallery
+
+Contact
+Li Sihan - Hospitality Management Student
+
+Student ID: 0353180
+
+Email: li.sihan@student.taylors.edu.my
